@@ -21,3 +21,5 @@ Proxy Inverso con Nginx (Usar el NGINX y tocar en config para que se modifique p
 ![image](https://github.com/HectorCRZBQ/nginx_reverse_proxy/assets/148070442/f152c218-e6e0-4347-b5c4-5f2c70de9172)
  
 11.	Accedemos por medio del buscador al enlace: https://paginawebhector.com y se nos muestra nuestra página web
+
+Hector de la Cruz Baquero - [Linkdedin](https://www.linkedin.com/in/h%C3%A9ctor-de-la-cruz-baquero-ba193429b/) - [Webpage](https://hectorcrzbq.github.io/)
